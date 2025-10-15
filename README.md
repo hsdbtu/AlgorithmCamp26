@@ -3,6 +3,8 @@
 Bu kamp, **sıfırdan başlayarak algoritma ve programlama becerilerini geliştirmek isteyenler** için tasarlanmıştır.  
 Temel amacımız, katılımcılara **kendi kendine öğrenme yeteneği kazandırmak** ve bu süreçte onlara destek olmaktır.
 
+Her hafta pazar günleri, o haftanın egzersiz sonuçları ile bir sonraki haftanın dökümanı yüklenecek.
+
 ---
 
 ## 🧭 Kampın İşleyişi
