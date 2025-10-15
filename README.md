@@ -1,4 +1,4 @@
-# Algorithm CAMP
+# Algorithm Camp'26
 
 Bu kamp, **sıfırdan başlayarak algoritma ve programlama becerilerini geliştirmek isteyenler** için tasarlanmıştır.  
 Temel amacımız, katılımcılara **kendi kendine öğrenme yeteneği kazandırmak** ve bu süreçte onlara destek olmaktır.
@@ -14,7 +14,7 @@ Kampımız, üç ana aşamadan oluşur:
    Bu, konuya hızlı bir giriş yapmanızı sağlar.
 
 2. **Kendi Kendine Öğrenme (Self-learning)**  
-   Sağlanan kapsamlı kaynaklarla (makaleler, videolar vb.) konuyu daha derinlemesine araştırmanız ve kendi başınıza öğrenmeniz teşvik edilir.
+   Sağlanan kapsamlı kaynaklarla konuyu daha derinlemesine araştırmanız ve kendi başınıza öğrenmeniz teşvik edilir.
 
 3. **Pekiştirme (Practice)**  
    Öğrenilen konuyu pekiştirmeniz için kolaydan zora doğru sıralanmış çeşitli seviyelerde sorular sunulur.  
