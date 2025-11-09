@@ -10,7 +10,7 @@
 
 ### **Zor (Advanced)**
 
-1\. Kullanıcının notunu alıp aşağıdaki kurala göre \*\*harf notu\*\* yazdırın:  
+1. Kullanıcının notunu alıp aşağıdaki kurala göre \*\*harf notu\*\* yazdırın:  
 
 &nbsp;  - 90 ve üzeri → \*\*A\*\*  
 
