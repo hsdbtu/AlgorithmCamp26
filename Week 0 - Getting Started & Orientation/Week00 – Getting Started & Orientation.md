@@ -31,7 +31,7 @@ Problemi şu şekilde ifade edilebiliriz: Bir yönetici, bir pozisyon için *n* 
 
 Soru: en iyi adayı seçme olasılığını en üst düzeye çıkarmak için en uygun strateji nedir?
 
-https://www.youtube.com/watch?v=4418QeaFwG4
+[Evleneceğiniz Kişiyi Nasıl Seçmelisiniz? (Bilimsel Olarak)](https://www.youtube.com/watch?v=4418QeaFwG4)
 
 Evrim Ağacının bu videosu da bu problemin diğer bir adı olan “Marriage Problem”a göndermedir.
 
@@ -67,7 +67,7 @@ Bir algoritmayı ifade etmenin birden fazla yolu vardır:
         8. BİTİR
 3. Akış Şeması (Flowchart) ile Gösterim
     
-    Algoritma şekiller ve oklarla görselleştirilir. https://app.diagrams.net/ kullanabileceğiniz çevrimiçi bir çizim uygulaması.
+    Algoritma şekiller ve oklarla görselleştirilir. [Flowchart Diagram](https://app.diagrams.net/) kullanabileceğiniz çevrimiçi bir çizim uygulaması.
     
 
 ![i.webp](images/66e1ee12-07c5-4372-a646-86266965ae53.png)
@@ -77,10 +77,9 @@ Bir algoritmayı ifade etmenin birden fazla yolu vardır:
 ---
 
 ## Çözerken Eğlenebileceğinizi Düşündüğümüz İçerikler
-
-- http://datagenetics.com/blog/july22012/index.html, https://www.youtube.com/watch?v=NGtt7GJ1uiM
-
-- https://www.youtube.com/watch?v=tE2dZLDJSjA
+  - [DataGenetic](http://datagenetics.com/blog/july22012/index.html)
+  - [Youtube - Egg drop riddle](https://www.youtube.com/watch?v=NGtt7GJ1uiM)
+  - [Youtube - Sahte para bilmecesini](https://www.youtube.com/watch?v=tE2dZLDJSjA)
 
 ## 3. Ödev
 - **Exercises klasörüne bakın!!!**

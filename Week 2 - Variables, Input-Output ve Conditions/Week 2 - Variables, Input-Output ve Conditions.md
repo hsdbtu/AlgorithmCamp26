@@ -146,9 +146,9 @@ else printf("Harf Notu: F\n");
 
 ## 4. Çözerken Eğlenebileceğiniz Kaynaklar
 
-- GeeksForGeeks – C if-else
-- [W3Schools – C Conditions](https://www.w3schools.com/c/c_conditions.php)
-- [YouTube: C Programming – if else Explained](https://www.youtube.com/watch?v=f4KOjWS_KZs)
+  - GeeksForGeeks: [C if-else](https://www.geeksforgeeks.org/c-if-else/)
+  - W3Schools: [C Conditions](https://www.w3schools.com/c/c_conditions.php)
+  - YouTube: [C if statements](https://www.youtube.com/watch?v=xyQrVEFz9kw)
 
 ---
 

@@ -86,9 +86,9 @@ int main() {
 
 ## Çözerken Eğlenebileceğinizi Düşündüğümüz İçerikler
 
-- [GeeksForGeeks – C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language/)
-- [YouTube: C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
-- [W3Schools-C](https://www.w3schools.com/c/)
+- GeeksForGeeks: [C Programming Language](https://www.geeksforgeeks.org/c/c-programming-language/)
+- YouTube: [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- W3Schools: [C](https://www.w3schools.com/c/)
 
 ## 4. Ödev
 - **Exercises klasörüne bakın!!**
