@@ -365,6 +365,6 @@ void ters(char *p) {
 
 ## 16. Ödev
 
-- exercises klasörüne bakın !!
+- "exercises" klasörüne bakın !!
 
 ---
