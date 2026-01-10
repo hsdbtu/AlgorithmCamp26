@@ -6,7 +6,7 @@ Kullanıcıdan bir `n` değeri alan ve
 `malloc` kullanarak `n` elemanlı bir `int` dizisi oluşturan,
 elemanlarını kullanıcıdan alan ve ekrana yazdıran programı yazınız.
 
-📌 Bellek ayırma başarısızlığı kontrol edilmelidir.
+📌 Bellek ayırma başarısızlığı kontrol edilmelidir.  
 📌 Program sonunda bellek serbest bırakılmalıdır.
 
 ---
